@@ -1,8 +1,6 @@
-
-Android BluetoothChat Sample
+Android Game Player
 ============================
 
-This repo has been migrated to [github.com/android/connectivity][1]. Please check that repo for future updates. Thank you!
+> This repo is forked from [googlearchive/android-BluetoothChat](https://github.com/googlearchive/android-BluetoothChat)
 
-[1]: https://github.com/android/connectivity
-
+You could use this app to play games in 4399.com, expecially with your friends.
